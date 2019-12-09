@@ -1,5 +1,5 @@
 # sol
- Steam or Origin launcher
+ Steam to Origin launcher
 
 # What it does
 Lets you launch origin games from steam to be able to use steam features such as the overlay or a steam controller.  
