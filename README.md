@@ -2,7 +2,7 @@
  Steam to Origin launcher
 
 # What it does
-Lets you launch origin games from steam to be able to use steam features such as the overlay or a steam controller.  
+Lets you launch origin games from steam to be able to use steam features such as the overlay or the steam controller api.  
 Closes origin once the game closes.
 
 # How to use
